@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the main contribution of the paper?",
+        "expected_source": "Data Visualization and strory telling.pdf"
+    },
+    {
+        "question": "What methodology is discussed in the paper?",
+        "expected_source": "Data Visualization and strory telling.pdf"
+    },
+    {
+        "question": "What are the main findings of the paper?",
+        "expected_source": "Data Visualization and strory telling.pdf"
+    },
+    {
+        "question": "What problem does the paper address?",
+        "expected_source": "Data Visualization and strory telling.pdf"
+    },
+    {
+        "question": "What are the limitations discussed in the paper?",
+        "expected_source": "Data Visualization and strory telling.pdf"
+    }
+]
